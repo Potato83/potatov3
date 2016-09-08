@@ -1438,7 +1438,7 @@ a.btn{
 }
 
 /* Small Notebook */
-@media (max-width: 1024px) and (min-width: 768px) and (max-height: 767px) and (min-height: 500px){
+@media (max-width: 1023px) and (min-width: 769px) and (max-height: 767px) and (min-height: 500px){
   .dev-skill-style{
     top: 60%;
   }
