@@ -1535,7 +1535,14 @@ a.btn{
   }
 }
 
+/* end of pinky fix */
 
+#external{
+  text-align: center;
+  position: relative;
+  top: 150px;
+  width: 100%;
+}
 
 
 

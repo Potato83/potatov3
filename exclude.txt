@@ -4,3 +4,5 @@ gruntfile.js
 package.json
 .git
 .DS_Store
+.gitignore
+backup/
